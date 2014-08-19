@@ -1,4 +1,4 @@
-bitrix-gitignore
+Шаблон `.gitignore`
 ================
 
-Пример .gitignore для проектов на 1С-Bitrix
+Пример `.gitignore` для проектов на 1С-Bitrix
