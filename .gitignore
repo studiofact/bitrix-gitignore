@@ -7,6 +7,7 @@
 yandex_*.html
 google*.html
 composer.phar
+restore.php
 *.log
 *.sql
 *.txt
