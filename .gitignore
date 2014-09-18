@@ -6,6 +6,7 @@
 /vendor
 yandex_*.html
 google*.html
+sitemap*.xml
 composer.phar
 restore.php
 *.log
