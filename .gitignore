@@ -2,8 +2,11 @@
 !/bitrix/php_interface/
 /bitrix/php_interface/dbconn.php
 .idea/*
-/upload
-/vendor
+/upload/
+/vendor/
+/vendor_js/
+/node_modules/
+/bower_components/
 yandex_*.html
 google*.html
 sitemap*.xml
