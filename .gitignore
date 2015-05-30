@@ -6,6 +6,7 @@
 /vendor/
 /vendor_js/
 /node_modules/
+/bin/
 /bower_components/
 yandex_*.html
 google*.html
