@@ -8,6 +8,7 @@
 /node_modules/
 /bin/
 /bower_components/
+/1c_manual/
 yandex_*.html
 google*.html
 sitemap*.xml
